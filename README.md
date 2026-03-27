@@ -11,9 +11,10 @@ I’m learning cybersecurity from scratch and documenting my progress.
 ## 🚧 In progress
 - Cisco: Networking Basics
 
-## 🔜 Next steps
-- Linux Fundamentals
-- TryHackMe Pre Security
+## 🔜 Current Focus
+-Networking fundamentals
+-Wireless and mobile networks
+-Linux basics coming next
 
 ## 🎯 Goal
 Get my first Junior Cybersecurity role.
