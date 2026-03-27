@@ -13,7 +13,9 @@ I’m learning cybersecurity from scratch and documenting my progress.
 
 ## 🔜 Current Focus
 -Networking fundamentals
+
 -Wireless and mobile networks
+
 -Linux basics coming next
 
 ## 🎯 Goal
