@@ -6,7 +6,7 @@ I’m learning cybersecurity from scratch and documenting my progress.
 
 ## ✅ Completed
 - Cisco: Introduction to Cybersecurity
-- Cisco: Networking Basics - completed Modules 1–4
+- Cisco: Networking Basics - completed Modules 1–5
 
 ## 🚧 In progress
 - Cisco: Networking Basics
